@@ -118,6 +118,81 @@
   <ItemGroup>
     <None Include="Resources\jungle.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 105.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1916.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 75.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene-12.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 90.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shot.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\death.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fire.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alarm.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\528289__johntrap__dust-ambiance-prison.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baton.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ventend.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inside_Vent.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
